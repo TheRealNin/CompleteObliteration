@@ -1,0 +1,4 @@
+modEntry = {
+	FileHooks = "lua/CompleteObliteration/FileHooks.lua",
+	Priority = 40
+}
